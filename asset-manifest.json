@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/FarizU/static/css/main.0e6a84ba.css",
+    "main.js": "/FarizU/static/js/main.4b74b3e1.js",
+    "static/js/787.cf53e342.chunk.js": "/FarizU/static/js/787.cf53e342.chunk.js",
+    "static/media/Bioskop.png": "/FarizU/static/media/Bioskop.548756366333d4c8c282.png",
+    "static/media/Shopee.png": "/FarizU/static/media/Shopee.64cbcc4e3dbb444a3f69.png",
+    "static/media/Dasboard.png": "/FarizU/static/media/Dasboard.eec2133ea65a6bcd3fb5.png",
+    "index.html": "/FarizU/index.html",
+    "main.0e6a84ba.css.map": "/FarizU/static/css/main.0e6a84ba.css.map",
+    "main.4b74b3e1.js.map": "/FarizU/static/js/main.4b74b3e1.js.map",
+    "787.cf53e342.chunk.js.map": "/FarizU/static/js/787.cf53e342.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e6a84ba.css",
+    "static/js/main.4b74b3e1.js"
+  ]
+}
